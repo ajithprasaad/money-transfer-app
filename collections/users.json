@@ -1,0 +1,51 @@
+[
+    {
+        "userId": "1000123",
+        "accountId": "123",
+        "name": "Conan",
+        "accountType": "Savings Account",
+        "accountBalance": "5000"
+    },
+    {
+        "userId": "1000123",
+        "accountId": "124",
+        "name": "Conan",
+        "accountType": "Current Account",
+        "accountBalance": "15000"
+    },
+    {
+        "userId": "1000123",
+        "accountId": "125",
+        "name": "Conan",
+        "accountType": "Basic Savings",
+        "accountBalance": "15000"
+    },
+    {
+        "userId": "1000134",
+        "accountId": "200",
+        "name": "Dave",
+        "accountType": "Current Account",
+        "accountBalance": "1000"
+    },
+    {
+        "userId": "1000134",
+        "accountId": "201",
+        "name": "Dave",
+        "accountType": "Savings Account",
+        "accountBalance": "15000"
+    },
+    {
+        "userId": "1000145",
+        "accountId": "301",
+        "name": "Jenny",
+        "accountType": "Current Account",
+        "accountBalance": "50000"
+    },
+    {
+        "userId": "1000145",
+        "accountId": "302",
+        "name": "Jenny",
+        "accountType": "Basic Savings",
+        "accountBalance": "10000"
+    }  
+]
