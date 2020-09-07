@@ -4,14 +4,14 @@
         "accountId": "123",
         "name": "Conan",
         "accountType": "Savings Account",
-        "accountBalance": "5000"
+        "accountBalance": "500000"
     },
     {
         "userId": "1000123",
         "accountId": "124",
         "name": "Conan",
         "accountType": "Current Account",
-        "accountBalance": "15000"
+        "accountBalance": "1500000"
     },
     {
         "userId": "1000123",
@@ -25,14 +25,14 @@
         "accountId": "200",
         "name": "Dave",
         "accountType": "Current Account",
-        "accountBalance": "1000"
+        "accountBalance": "100000"
     },
     {
         "userId": "1000134",
         "accountId": "201",
         "name": "Dave",
         "accountType": "Savings Account",
-        "accountBalance": "15000"
+        "accountBalance": "150000"
     },
     {
         "userId": "1000145",
@@ -46,6 +46,6 @@
         "accountId": "302",
         "name": "Jenny",
         "accountType": "Basic Savings",
-        "accountBalance": "10000"
+        "accountBalance": "30000"
     }  
 ]
